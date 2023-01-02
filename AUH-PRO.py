@@ -42,7 +42,7 @@ Github    : MR-AUH404
 Facebook  : AHSAM UL HAQ 
 Tool Name : MR-AUH
 Type type : PAID
-Tool Version :  10.0.95
+ Tool Version :  10.0.95
     
 {50*"-"}'''
  
@@ -89,7 +89,7 @@ def qsbuy():
 			os.system("clear");print(logo)
 			print(f"{r}   Your Device License Key Is Not Approved{s}")
 			print(50*"-")
-			print(f"{g} Key : {AHSAMULHAQ~")
+			print(f"{g} Key : {ahsam}")
 			print(50*"-")
 			print(f" Note : Tool is Paid & We Accept All Types Of PAyment  Method . If There was Fb Update & Tool Wasnt Run Then We Are Not Responsible For All Of This . We Will Try  To Update Script Every Time But It Took Day ")
 			print("\n Baray Mehrbani Tool Apni Zimadare May Buy Kary Lehaza May Apko Force Ni Kar Raha ! Baqe Tool Har 2 sy 3 din bad update hgaya kryga ")
