@@ -42,7 +42,7 @@ Github    : MR-AUH404
 Facebook  : AHSAM UL HAQ 
 Tool Name : MR-AUH
 Type type : PAID
- Tool Version :  10.0.95
+ Tool Version : 10.0.95
     
 {50*"-"}'''
  
